@@ -4248,14 +4248,14 @@ input[type="button"].btn-block {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding-left: 0;
-  margin-bottom: 0;
+  padding-left: auto;
+  margin-bottom: auto;
   list-style: none;
 }
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding:0.75rem  1rem;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -5579,6 +5579,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-horizontal {
   -ms-flex-direction: row;
   flex-direction: row;
+ 
 }
 
 .list-group-horizontal > .list-group-item:first-child {
@@ -10349,11 +10350,39 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .warna{
-  background-color: #EEE8AA		;
+  background-color: #20ffb5		;
 }
 .footer{
   clear: both;
   height: auto;
+}
+
+.form-login{
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.outter-form-login {
+  padding: 20px;
+  background:#20ffb5;
+  position: relative;
+  border-radius: 5px;
+  margin-bottom: 10%;
+}
+.inner-login .form-control {
+  background: #D3D3D3;
+}
+h3.title-login {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.forget {
+  margin-top: 20px;
+  color: #ADADAD;
+}
+.btn-custom-green {
+  background: #21A957;
+  color: #fff;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */

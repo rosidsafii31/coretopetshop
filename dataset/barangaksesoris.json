@@ -1,0 +1,37 @@
+[
+    {
+        "id":"ak1",
+        "namaproduk":" A.BED KOTAK",
+        "ukuranproduk":" - ", 
+        "stock":"50 pcs",
+        "gambar":"/images/AKSESORIS1.jpeg"
+    },
+    {
+        "id":"ak2",
+        "namaproduk":"A.BED ANIMAL",
+        "ukuranproduk":" - ", 
+        "stock":"50 pcs",
+        "gambar":"/images/AKSESORIS2.jpeg"
+    },
+    {
+        "id":"ak3",
+        "namaproduk":"TM. BASKOM",
+        "ukuranproduk":"  24 CM", 
+        "stock":"50 pcs",
+        "gambar":"/images/AKSESORIS3.jpeg"
+    },
+    {
+        "id":"ak4",
+        "namaproduk":"TM.BO PLASTIC BOWL",
+        "ukuranproduk":" -", 
+        "stock":"50 pcs",
+        "gambar":"/images/AKSESORIS4.jpeg"
+    },
+    {
+        "id":"ak5",
+        "namaproduk":"K.OCT KUCING C-227",
+        "ukuranproduk":"-", 
+        "stock":"50 pcs",
+        "gambar":"/images/AKSESORIS6.jpeg"
+    }
+]

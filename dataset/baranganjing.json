@@ -1,0 +1,37 @@
+[
+    {
+        "id":"an1",
+        "namaproduk":" NOURISH LIFE LAMB FOR ADULT",
+        "beratproduk":" 5.7 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/ANJING1.png"
+    },
+    {
+        "id":"an2",
+        "namaproduk":" NURTURE PRO LAMB SMALL PUPPY",
+        "beratproduk":"  1.8 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/ANJING2.jpeg"
+    },
+    {
+        "id":"an3",
+        "namaproduk":"NOURISH LIFE ALASKAN SALMON FORMULA CAT",
+        "beratproduk":"1.8 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/ANJING5.jpeg"
+    },
+    {
+        "id":"aa1",
+        "namaproduk":" ACIS DOG FOOD BEEF",
+        "beratproduk":"  20 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/ANJING3.jpeg"
+    },
+    {
+        "id":"ar1",
+        "namaproduk":" ROYAL CANIN MOBILITY DOG ",
+        "beratproduk":"2 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/ANJING6.jpeg"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id":"sn1",
+        "namaproduk":"NOVA RABBIT FOOD",
+        "beratproduk":" 1 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/pop4.jpeg"
+    },
+    {
+        "id":"sn2",
+        "namaproduk":"NOVA RABBIT MIXED BARRIES ",
+        "beratproduk":" 1 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/SMALLPET1.jpeg"
+    },
+    {
+        "id":"sf1",
+        "namaproduk":"F . TAKARI MIX ",
+        "beratproduk":" 250 GRAM", 
+        "stock":"100 pcs",
+        "gambar":"/images/SMALLPET2.jpeg"
+    },
+    {
+        "id":"sf2",
+        "namaproduk":"F.SANKOI SMALL 2 MM ",
+        "beratproduk":"1 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/SMALLPET3.jpeg"
+    },
+    {
+        "id":"sf3",
+        "namaproduk":"F . TAKARI MIX",
+        "beratproduk":" 500 GRAM", 
+        "stock":"100 pcs",
+        "gambar":"/images/SMALLPET2.jpeg"
+    }
+]

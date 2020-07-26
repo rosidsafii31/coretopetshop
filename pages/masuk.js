@@ -3,24 +3,30 @@ import Layout from '../layouts/layout';
     return(
       <Layout>
           <div className="container">
-              <center><h4>FORM MASUK</h4></center>
               <br></br>
-              <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-  </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1"/>
-  </div>
-  <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1"/>
-    <label class="form-check-label" for="exampleCheck1">Check me out</label>
-  </div>
-  <button type="submit" class="btn btn-primary">Masuk</button>
-</form>
+              <div className=" form-login">
+        <div className="outter-form-login">
+        <div className="logo-login">
+            <em className="glyphicon glyphicon-user"></em>
+        </div>
+            <form action="" className="inner-login" method="post">
+            <h3 className="text-center title-login">Login Member</h3>
+                <div className="form-group">
+                    <input type="text" className="form-control" name="username" placeholder="Username"/>
+                </div>
+
+                <div className="form-group">
+                    <input type="password" className="form-control" name="password" placeholder="Password"/>
+                </div>
+                
+                <input type="submit" className="btn btn-block btn-custom-green" value="MASUK" />
+                
+                <div className="text-center forget">
+                    <p className="font-weight-bold text-dark">Lupa Password ?</p>
+                </div>
+            </form>
+        </div>
+    </div>
           </div>
       </Layout>
     );

@@ -1,0 +1,80 @@
+[
+    {
+        "id":"kb1",
+        "namaproduk":"BOLT CAT WITH TUNA",
+        "beratproduk":"20 Kg", 
+        "stock":"120 pcs",
+        "gambar":"/images/bolt.png"
+    },
+    {
+        "id":"kr1",
+        "namaproduk":"ROYAL CANIN KITTEN PERSIAN",
+        "beratproduk":"2 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/royal canin persia.jpeg"
+    },
+    {
+        "id":"kn1",
+        "namaproduk":"NOURISH LIFE CHICKEN CAT",
+        "beratproduk":"10 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/pop3.jpeg"
+    },
+    {
+        "id":"kr1",
+        "namaproduk":"ROYAL CANIN KITTEN PERSIAN",
+        "beratproduk":"2 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/royal canin persia.jpeg"
+    },
+    {
+        "id":"kr2",
+        "namaproduk":"ROYAL CANIN MAINECOON ADULT",
+        "beratproduk":"2 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/royal.jpeg"
+    },
+    {
+        "id":"kn2",
+        "namaproduk":"NOURISH LIFE ALASKAN SALMON FORMULA CAT",
+        "beratproduk":"10 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/salmon.jpeg"
+    },
+    {
+        "id":"kw1",
+        "namaproduk":"WISHCASH ADULT CHICKEN ",
+        "beratproduk":"2,3 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/wis4.png"
+    },
+    {
+        "id":"kw2",
+        "namaproduk":"WISHCASH TUNA",
+        "beratproduk":"480 Gram", 
+        "stock":"100 pcs",
+        "gambar":"/images/wis5.png"
+    },
+    {
+        "id":"kb2",
+        "namaproduk":"BOLD CAT FISH AND TUNA",
+        "beratproduk":"8 Kg", 
+        "stock":"100 pcs",
+        "gambar":"/images/bolt2.jpeg"
+    },
+    {
+        "id":"kw3",
+        "namaproduk":"WISHCASH PAKAN BASAH",
+        "beratproduk":"", 
+        "stock":"100 pcs",
+        "gambar":"/images/wis2.jpg"
+    },
+    {
+        "id":"kb3",
+        "namaproduk":"BLACKWOOD CAT CHICKEN & RICE",
+        "beratproduk":"6 KG", 
+        "stock":"100 pcs",
+        "gambar":"/images/blackwod.jpeg"
+    }
+
+]
